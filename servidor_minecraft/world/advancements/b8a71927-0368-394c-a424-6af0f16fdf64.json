@@ -416,9 +416,10 @@
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:clay": "2025-06-07 19:04:49 +0000",
+      "inv_changed-enderio:gravel": "2025-06-07 23:44:45 +0000",
       "inv_changed-enderio:sand": "2025-06-07 18:22:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
@@ -1327,6 +1328,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpnests:advdentist": {
+    "criteria": {
+      "advdentist": "2025-06-07 23:50:04 +0000"
     },
     "done": true
   },
