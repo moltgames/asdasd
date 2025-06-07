@@ -404,9 +404,10 @@
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:clay": "2025-06-07 04:29:18 +0000",
+      "inv_changed-enderio:gravel": "2025-06-07 19:20:15 +0000",
       "inv_changed-enderio:sand": "2025-06-07 05:01:36 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
@@ -653,6 +654,7 @@
       "skeleton": "2025-06-07 19:12:22 +0000",
       "husk": "2025-06-07 04:56:57 +0000",
       "zombie": "2025-06-07 04:19:17 +0000",
+      "cave_spider": "2025-06-07 19:28:07 +0000",
       "spider": "2025-06-07 04:43:35 +0000"
     },
     "done": false

@@ -1926,3 +1926,10 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [19:13:23] [Server thread/WARN] [FML]: Quark loaded a new chunk [-44, -41] in dimension 0 (overworld) while populating chunk [-45, -40], causing cascading worldgen lag.
 [19:13:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [19:15:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 has made the advancement [Not Today, Thank You]
+[19:19:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: mikunakanoga lost connection: Disconnected
+[19:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: mikunakanoga left the game
+[19:22:19] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[19:22:57] [Server thread/WARN] [FML]: Quark loaded a new chunk [-151, -59] in dimension 0 (overworld) while populating chunk [-152, -59], causing cascading worldgen lag.
+[19:22:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:24:44] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'enderio:chests/simple_dungeon'!
+[19:26:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [moltgames: Teleported moltgames to -2406.5, 63.5, -724.5]
