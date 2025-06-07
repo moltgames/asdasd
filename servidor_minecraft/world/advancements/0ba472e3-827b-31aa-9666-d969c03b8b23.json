@@ -662,6 +662,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-06-07 04:39:49 +0000",
+      "husk": "2025-06-07 18:01:06 +0000",
       "zombie": "2025-06-07 04:13:51 +0000"
     },
     "done": false
@@ -2506,6 +2507,12 @@
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:58:49 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "craft_hammer": "2025-06-07 18:01:08 +0000"
     },
     "done": true
   },

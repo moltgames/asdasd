@@ -1731,3 +1731,7 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [17:55:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: moltgames moved too quickly! -4.273859348045335,4.253890725948764,-8.464029904699942
 [17:55:58] [Server thread/WARN] [FML]: Quark loaded a new chunk [-76, -22] in dimension 0 (overworld) while populating chunk [-77, -22], causing cascading worldgen lag.
 [17:55:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[18:01:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zaide523 has made the advancement [HAMMAH!]
+[18:03:07] [Server thread/INFO] [improvableskills]: Injecting parchment into LootTable 'enderio:chests/desert_pyramid'!
+[18:07:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: moltgames lost connection: Disconnected
+[18:07:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames left the game
