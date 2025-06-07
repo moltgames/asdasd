@@ -575,6 +575,12 @@
     },
     "done": true
   },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2025-06-07 19:08:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:59:04 +0000"
@@ -1047,6 +1053,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-07 18:59:32 +0000"
     },
     "done": true
   },

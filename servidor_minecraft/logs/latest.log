@@ -1902,3 +1902,18 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [18:56:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <mikunakanoga> manden coordenadas
 [18:56:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <moltgames> puno
 [18:56:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <mikunakanoga> donta el lago titicaca
+[18:59:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: mikunakanoga has made the advancement [Isn't It Iron Pick]
+[18:59:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zaide523> manda tus coords
+[18:59:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zaide523> necesito un sujeto de prueba para mi arma
+[19:04:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames has completed the challenge [Karma]
+[19:05:47] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[19:05:47] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 71 mods : ctgui@1.0.0,enderiointegrationforestry@5.3.72,cgm@0.15.3,jee@1.0.8,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,endercore@1.12.2-0.5.78,mcp@9.42,nocubessrpnests@3.0.0,hammercore@12.2.58,oresabovediamonds@3.2,appliedenergistics2@rv6-stable-7,hermitsarsenal@V1,travelersbackpack@1.0.35,enderiointegrationticlate@5.3.72,mo@1.0,harvestcraft@1.12.2zb,betterbuilderswands@0.13.2,srpextra@0.4.3,mekanismgenerators@1.12.2-9.8.3.390,enderioconduitsrefinedstorage@5.3.72,srpmeshi@1.3,tlauncher_custom_cape_skin@1.4,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,srp_medical_addon@1.0.0,forge@14.23.5.2860,enderioconduits@5.3.72,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,tcomplement@1.12.2-0.4.3,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,crafttweakerjei@2.0.3,enderiomachines@5.3.72,immersiveengineering@0.12-98,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,enderiopowertools@5.3.72,srptweaks@V2,enderio@5.3.72,improvableskills@12.4.68,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,xaerominimap@25.2.6,gravestone@1.10.3,bhc@2.0.3,autoreglib@1.3-32,srpquark@1.3,fluxnetworks@4.1.0,elevatorid@1.3.14,enderioinvpanel@5.3.72,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,enderiobase@5.3.72,enderiointegrationtic@5.3.72,enderioconduitsappliedenergistics@5.3.72,srparasites@1.9.21,mekanismtools@1.12.2-9.8.3.390,spartanweaponry@1.6.0,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,enderioconduitsopencomputers@5.3.72,recipehandler@0.14,tinkersjei@1.2,swparasites@v3.1,overlast@0.0.2
+[19:05:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:05:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: jysusxd123[/127.78.16.90:44839] logged in with entity id 3103455 at (8.155621327330671, 78.0, -662.3313219942082)
+[19:05:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 joined the game
+[19:05:52] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[19:05:52] [Server thread/INFO] [Mekanism]: Sent config to 'jysusxd123.'
+[19:05:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zaide523> :o
+[19:06:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <jysusxd123> recien despierto XDD
+[19:08:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zaide523 has made the advancement [Halberdier]
+[19:08:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zaide523> que rica arma

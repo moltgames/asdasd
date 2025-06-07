@@ -403,6 +403,7 @@
   },
   "enderioconduits:root": {
     "criteria": {
+      "inv_changed-enderio:clay": "2025-06-07 19:04:49 +0000",
       "inv_changed-enderio:sand": "2025-06-07 18:22:22 +0000"
     },
     "done": false
@@ -643,11 +644,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2025-06-07 19:08:07 +0000",
       "skeleton": "2025-06-07 04:54:24 +0000",
       "husk": "2025-06-07 04:54:21 +0000",
       "zombie": "2025-06-07 04:55:58 +0000",
       "witch": "2025-06-07 18:33:00 +0000",
-      "spider": "2025-06-07 04:44:49 +0000"
+      "spider": "2025-06-07 04:44:49 +0000",
+      "creeper": "2025-06-07 19:04:37 +0000"
     },
     "done": false
   },
@@ -1175,6 +1178,7 @@
       "plains": "2025-06-07 03:58:17 +0000",
       "savanna_rock": "2025-06-07 04:09:41 +0000",
       "birch_forest_hills": "2025-06-07 04:20:41 +0000",
+      "ocean": "2025-06-07 19:04:32 +0000",
       "extreme_hills": "2025-06-07 04:10:03 +0000",
       "roofed_forest": "2025-06-07 18:28:54 +0000",
       "river": "2025-06-07 04:03:22 +0000",
@@ -1209,6 +1213,12 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:explode_creeper": {
+    "criteria": {
+      "killed_skeleton": "2025-06-07 19:04:37 +0000"
     },
     "done": true
   },
@@ -1729,6 +1739,7 @@
       "cooked_beef": "2025-06-07 04:27:50 +0000",
       "beef": "2025-06-07 04:20:50 +0000",
       "porkchop": "2025-06-07 04:56:06 +0000",
+      "apple": "2025-06-07 19:08:46 +0000",
       "mutton": "2025-06-07 04:25:40 +0000",
       "beetroot": "2025-06-07 04:04:30 +0000"
     },
