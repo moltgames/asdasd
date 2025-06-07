@@ -1917,3 +1917,12 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [19:06:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <jysusxd123> recien despierto XDD
 [19:08:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zaide523 has made the advancement [Halberdier]
 [19:08:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zaide523> que rica arma
+[19:11:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: mikunakanoga was blown up by Creeper
+[19:11:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <jysusxd123> XD
+[19:11:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <mikunakanoga> XD
+[19:11:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zaide523> xd
+[19:13:23] [Server thread/WARN] [FML]: Quark loaded a new chunk [-45, -41] in dimension 0 (overworld) while populating chunk [-45, -40], causing cascading worldgen lag.
+[19:13:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:13:23] [Server thread/WARN] [FML]: Quark loaded a new chunk [-44, -41] in dimension 0 (overworld) while populating chunk [-45, -40], causing cascading worldgen lag.
+[19:13:23] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[19:15:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 has made the advancement [Not Today, Thank You]
