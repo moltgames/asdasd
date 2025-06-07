@@ -409,9 +409,11 @@
   },
   "enderioconduits:root": {
     "criteria": {
+      "inv_changed-enderio:gravel": "2025-06-07 18:22:08 +0000",
+      "inv_changed-enderio:clay": "2025-06-07 18:23:28 +0000",
       "inv_changed-enderio:sand": "2025-06-07 04:40:04 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
@@ -1730,6 +1732,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-07 04:20:23 +0000",
       "cooked_beef": "2025-06-07 04:30:53 +0000",
+      "potato": "2025-06-07 18:24:37 +0000",
       "golden_apple": "2025-06-07 04:55:00 +0000",
       "beetroot": "2025-06-07 04:25:20 +0000",
       "carrot": "2025-06-07 04:03:27 +0000"
