@@ -395,17 +395,18 @@
     },
     "done": true
   },
-  "enderioconduits:root": {
-    "criteria": {
-      "inv_changed-enderio:gravel": "2025-06-07 04:45:34 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
     },
     "done": true
+  },
+  "enderioconduits:root": {
+    "criteria": {
+      "inv_changed-enderio:gravel": "2025-06-07 04:45:34 +0000",
+      "inv_changed-enderio:sand": "2025-06-07 23:21:27 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
@@ -479,15 +480,15 @@
     },
     "done": true
   },
-  "spartanweaponry:root": {
-    "criteria": {
-      "handle_in_inventory": "2025-06-07 04:27:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2025-06-07 04:27:03 +0000"
     },
     "done": true
   },
@@ -1178,6 +1179,7 @@
       "forest": "2025-06-07 04:15:24 +0000",
       "swampland": "2025-06-07 04:19:20 +0000",
       "birch_forest": "2025-06-07 04:15:38 +0000",
+      "beaches": "2025-06-07 23:15:27 +0000",
       "extreme_hills_with_trees": "2025-06-07 04:14:56 +0000",
       "desert_hills": "2025-06-07 04:16:59 +0000",
       "forest_hills": "2025-06-07 05:46:51 +0000",
@@ -1218,6 +1220,12 @@
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:explode_creeper": {
+    "criteria": {
+      "killed_skeleton": "2025-06-07 23:15:14 +0000"
     },
     "done": true
   },
@@ -1939,12 +1947,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-06-07 04:14:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
@@ -1954,6 +1956,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-07 04:14:05 +0000"
     },
     "done": true
   },
