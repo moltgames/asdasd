@@ -2543,3 +2543,30 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [17:50:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> toy en -2282 98 -5433
 [17:51:09] [Server thread/WARN] [FML]: Quark loaded a new chunk [-154, -363] in dimension 0 (overworld) while populating chunk [-155, -362], causing cascading worldgen lag.
 [17:51:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:51:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Guiso_de_Posho moved too quickly! -0.6723469500734609,-5.407395402364941,-8.484889608749654
+[17:51:41] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[17:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> XD
+[17:52:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: jysusxd123 moved too quickly! 0.24681179300000622,-10.230681742304881,2.882307434435006
+[17:52:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Guiso_de_Posho was slain by Deviantive Form
+[17:53:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Guiso_de_Posho lost connection: Timed out
+[17:53:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Guiso_de_Posho left the game
+[17:53:49] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[17:53:49] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 75 mods : ctgui@1.0.0,enderiointegrationforestry@5.3.72,reachfix@1.1.3,cgm@0.15.3,jee@1.0.8,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,endercore@1.12.2-0.5.78,mcp@9.42,nocubessrpnests@3.0.0,hammercore@12.2.58,oresabovediamonds@3.2,appliedenergistics2@rv6-stable-7,hermitsarsenal@V1,travelersbackpack@1.0.35,enderiointegrationticlate@5.3.72,mo@1.0,harvestcraft@1.12.2zb,foamfixcore@7.7.4,betterbuilderswands@0.13.2,srpextra@0.4.3,mekanismgenerators@1.12.2-9.8.3.390,enderioconduitsrefinedstorage@5.3.72,srpmeshi@1.3,tlauncher_custom_cape_skin@1.4,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,srp_medical_addon@1.0.0,forge@14.23.5.2860,enderioconduits@5.3.72,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,nocubessrparmory@3.0.0,tcomplement@1.12.2-0.4.3,tinkertoolleveling@1.12.2-1.1.0.DEV.b23e769,crafttweakerjei@2.0.3,enderiomachines@5.3.72,immersiveengineering@0.12-98,baubles@1.5.2,jade@0.1.0,ironfurnaces@1.3.5,enderiopowertools@5.3.72,srptweaks@V2,enderio@5.3.72,improvableskills@12.4.68,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,xaerominimap@25.2.6,gravestone@1.10.3,bhc@2.0.3,autoreglib@1.3-32,srpquark@1.3,fluxnetworks@4.1.0,elevatorid@1.3.14,lostcities@2.0.22,enderioinvpanel@5.3.72,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,enderiobase@5.3.72,enderiointegrationtic@5.3.72,enderioconduitsappliedenergistics@5.3.72,srparasites@1.9.21,mekanismtools@1.12.2-9.8.3.390,spartanweaponry@1.6.0,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,enderioconduitsopencomputers@5.3.72,recipehandler@0.14,foamfix@@VERSION@,tinkersjei@1.2,swparasites@v3.1,overlast@0.0.2
+[17:53:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:53:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Guiso_de_Posho[/127.159.200.183:59533] logged in with entity id 4307631 at (-2235.2325387484434, 63.086764279689525, -5880.7105393596685)
+[17:53:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Guiso_de_Posho joined the game
+[17:53:54] [Server thread/INFO] [EnderCore]: Sending server configs to client for com.enderio.core.common.config.ConfigHandler
+[17:53:54] [Server thread/INFO] [Mekanism]: Sent config to 'Guiso_de_Posho.'
+[17:58:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> pasa coords tulio
+[17:59:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: moltgames lost connection: Disconnected
+[17:59:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames left the game
+[17:59:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[17:59:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[17:59:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[17:59:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[17:59:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[17:59:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[17:59:21] [Server thread/INFO] [FML]: Unloading dimension 0
+[17:59:21] [Server thread/INFO] [FML]: Unloading dimension 2
+[17:59:21] [Server thread/INFO] [FluxNetworks]: FluxNetworkData has been unloaded
+[17:59:21] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
