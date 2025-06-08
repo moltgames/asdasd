@@ -138,3 +138,26 @@
 [00:11:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> XD
 [00:11:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <NoSoyAPA> nada xddd
 [00:12:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <NoSoyAPA> que se haga de dia y voy por mis cosas
+[00:15:35] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[00:15:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: moltgames lost connection: Disconnected
+[00:15:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: moltgames left the game
+[00:16:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> gei
+[00:16:16] [Server thread/WARN] [FML]: Quark loaded a new chunk [27, 14] in dimension 0 (overworld) while populating chunk [26, 15], causing cascading worldgen lag.
+[00:16:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:16:16] [Server thread/WARN] [FML]: SRP: Nests Addon (by NoCube) loaded a new chunk [27, 20] in dimension 0 (overworld) while populating chunk [26, 20], causing cascading worldgen lag.
+[00:16:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:16:21] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[00:16:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] voy a abir el server por mi cel, se va a cerrar un rato
+[00:16:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <NoSoyAPA> PERA
+[00:16:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <NoSoyAPA> MIS COSAS
+[00:16:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> d1
+[00:17:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[00:17:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:17:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:17:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:17:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[00:17:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[00:17:56] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:17:56] [Server thread/INFO] [FML]: Unloading dimension 2
+[00:17:56] [Server thread/INFO] [FluxNetworks]: FluxNetworkData has been unloaded
+[00:17:56] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
