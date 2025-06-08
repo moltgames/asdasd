@@ -946,6 +946,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-08 21:49:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
@@ -1822,6 +1828,7 @@
       "cooked_porkchop": "2025-06-07 04:39:08 +0000",
       "cooked_mutton": "2025-06-07 04:14:05 +0000",
       "cooked_beef": "2025-06-07 05:29:18 +0000",
+      "apple": "2025-06-08 21:45:54 +0000",
       "bread": "2025-06-08 03:34:34 +0000",
       "golden_apple": "2025-06-08 03:37:59 +0000",
       "rotten_flesh": "2025-06-07 04:44:04 +0000",
