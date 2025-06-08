@@ -1519,6 +1519,12 @@
     },
     "done": true
   },
+  "nocubessrpnests:advrefinesample": {
+    "criteria": {
+      "advrefinesample": "2025-06-08 16:51:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:04:04 +0000"
