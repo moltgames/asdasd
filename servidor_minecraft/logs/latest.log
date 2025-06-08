@@ -1825,3 +1825,55 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [16:37:18] [Server thread/WARN] [FML]: Quark loaded a new chunk [-69, -192] in dimension 0 (overworld) while populating chunk [-70, -192], causing cascading worldgen lag.
 [16:37:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [16:38:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[16:41:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[16:41:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to jysusxd123]
+[16:41:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> oy en camino
+[16:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[16:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[16:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[16:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[16:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to jysusxd123]
+[16:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[16:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[16:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[16:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[16:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to jysusxd123]
+[16:41:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[16:41:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[16:41:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[16:41:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[16:41:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to jysusxd123]
+[16:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[16:41:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to jysusxd123]
+[16:41:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[16:41:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to jysusxd123]
+[16:41:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[16:41:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[16:41:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[16:41:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[16:41:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to jysusxd123]
+[16:41:55] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[16:43:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: jysusxd123 moved too quickly! -0.32021196685559516,-1.0101427562059229,-10.735208094811242
+[16:43:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> asimilado csmr
+[16:43:44] [Server thread/WARN] [FML]: Quark loaded a new chunk [-39, -241] in dimension 0 (overworld) while populating chunk [-40, -241], causing cascading worldgen lag.
+[16:43:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:43:44] [Server thread/WARN] [FML]: Quark loaded a new chunk [-39, -242] in dimension 0 (overworld) while populating chunk [-40, -241], causing cascading worldgen lag.
+[16:43:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:43:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <jysusxd123> q fue xd
+[16:43:52] [Server thread/WARN] [FML]: Quark loaded a new chunk [-41, -245] in dimension 0 (overworld) while populating chunk [-41, -244], causing cascading worldgen lag.
+[16:43:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:43:52] [Server thread/WARN] [FML]: Quark loaded a new chunk [-42, -245] in dimension 0 (overworld) while populating chunk [-41, -244], causing cascading worldgen lag.
+[16:43:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[16:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> me tan campeando tus tios
+[16:44:15] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[16:44:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> pasa coords de vuelta
+[16:44:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <jysusxd123> no toy en la house
+[16:44:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> pero tienes las coords de la huse p
+[16:45:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <jysusxd123> deja muero
+[16:46:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <jysusxd123> no mori
+[16:46:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <jysusxd123> xd
+[16:47:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> XD
+[16:47:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 tried to swim in lava
+[16:47:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> mno lava drop
+[16:47:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <jysusxd123> -898 165 -2740
+[16:49:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Guiso_de_Posho> mno hice un barco y desaparecio csmr
