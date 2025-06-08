@@ -1335,6 +1335,12 @@
     },
     "done": true
   },
+  "nocubessrpnests:advdentist": {
+    "criteria": {
+      "advdentist": "2025-06-08 22:12:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:04:04 +0000"
@@ -2495,6 +2501,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-08 22:42:04 +0000"
     },
     "done": true
   },

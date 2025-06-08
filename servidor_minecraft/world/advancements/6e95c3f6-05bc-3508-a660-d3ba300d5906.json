@@ -1588,6 +1588,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-06-08 22:34:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_the_recipe": "2025-06-07 23:41:09 +0000"
@@ -1750,6 +1756,7 @@
       "cooked_mutton": "2025-06-08 00:13:05 +0000",
       "cooked_beef": "2025-06-08 21:26:47 +0000",
       "beef": "2025-06-08 21:38:03 +0000",
+      "baked_potato": "2025-06-08 21:59:17 +0000",
       "porkchop": "2025-06-07 23:59:24 +0000",
       "potato": "2025-06-08 16:37:42 +0000",
       "rotten_flesh": "2025-06-08 21:38:17 +0000",
@@ -2098,6 +2105,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2025-06-07 23:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-06-08 22:34:24 +0000"
     },
     "done": true
   },

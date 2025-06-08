@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2025-06-08 22:03:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:58:17 +0000"
@@ -1110,6 +1116,12 @@
   "minecraft:recipes/building_blocks/spruce_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "calc": "2025-06-08 22:15:14 +0000"
     },
     "done": true
   },
@@ -2840,6 +2852,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advrupterbomb": {
+    "criteria": {
+      "advrupterbomb": "2025-06-08 22:29:30 +0000"
     },
     "done": true
   },

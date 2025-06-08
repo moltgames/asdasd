@@ -552,6 +552,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-06-08 22:39:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
@@ -702,6 +708,7 @@
       "silverfish": "2025-06-07 23:41:59 +0000",
       "cave_spider": "2025-06-08 21:05:39 +0000",
       "spider": "2025-06-07 05:49:15 +0000",
+      "ghast": "2025-06-08 22:39:31 +0000",
       "creeper": "2025-06-07 04:22:29 +0000"
     },
     "done": false
@@ -1832,6 +1839,7 @@
       "bread": "2025-06-08 03:34:34 +0000",
       "golden_apple": "2025-06-08 03:37:59 +0000",
       "rotten_flesh": "2025-06-07 04:44:04 +0000",
+      "golden_carrot": "2025-06-08 22:48:42 +0000",
       "cooked_chicken": "2025-06-07 04:39:12 +0000"
     },
     "done": false
