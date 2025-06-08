@@ -673,6 +673,7 @@
       "skeleton": "2025-06-07 04:54:24 +0000",
       "husk": "2025-06-07 04:54:21 +0000",
       "zombie": "2025-06-07 04:55:58 +0000",
+      "cave_spider": "2025-06-08 04:30:16 +0000",
       "witch": "2025-06-07 18:33:00 +0000",
       "spider": "2025-06-07 04:44:49 +0000",
       "creeper": "2025-06-07 19:04:37 +0000"
@@ -2218,6 +2219,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-08 04:30:24 +0000"
     },
     "done": true
   },

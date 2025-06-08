@@ -278,6 +278,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-06-08 03:13:32 +0000",
+      "rotten_flesh": "2025-06-08 04:32:49 +0000",
       "mushroom_stew": "2025-06-08 03:06:37 +0000",
       "carrot": "2025-06-08 03:25:50 +0000"
     },
@@ -699,6 +700,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-06-08 04:15:12 +0000",
+      "zombie": "2025-06-08 04:32:39 +0000",
       "spider": "2025-06-08 04:18:50 +0000"
     },
     "done": false
