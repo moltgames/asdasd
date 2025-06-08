@@ -413,6 +413,12 @@
     },
     "done": true
   },
+  "nocubessrpnests:advrefinery": {
+    "criteria": {
+      "advrefinery": "2025-06-08 21:20:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
@@ -1234,6 +1240,7 @@
       "forest": "2025-06-07 04:15:24 +0000",
       "swampland": "2025-06-07 04:19:20 +0000",
       "birch_forest": "2025-06-07 04:15:38 +0000",
+      "deep_ocean": "2025-06-08 21:26:43 +0000",
       "beaches": "2025-06-07 23:15:27 +0000",
       "extreme_hills_with_trees": "2025-06-07 04:14:56 +0000",
       "desert_hills": "2025-06-07 04:16:59 +0000",

@@ -1107,6 +1107,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advpestilentpart": {
+    "criteria": {
+      "advpestilentpart": "2025-06-08 21:18:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_the_recipe": "2025-06-07 23:41:09 +0000"
@@ -1734,6 +1740,7 @@
     "criteria": {
       "chicken": "2025-06-07 23:51:43 +0000",
       "cooked_mutton": "2025-06-08 00:13:05 +0000",
+      "cooked_beef": "2025-06-08 21:26:47 +0000",
       "porkchop": "2025-06-07 23:59:24 +0000",
       "potato": "2025-06-08 16:37:42 +0000",
       "beetroot": "2025-06-08 00:04:40 +0000",
