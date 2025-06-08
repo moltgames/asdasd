@@ -403,6 +403,7 @@
   },
   "enderioconduits:root": {
     "criteria": {
+      "inv_changed-enderio:gravel": "2025-06-08 04:29:07 +0000",
       "inv_changed-enderio:sand": "2025-06-08 00:08:20 +0000"
     },
     "done": false

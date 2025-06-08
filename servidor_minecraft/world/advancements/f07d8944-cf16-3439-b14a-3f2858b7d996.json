@@ -657,6 +657,7 @@
     "criteria": {
       "skeleton": "2025-06-07 04:24:20 +0000",
       "zombie": "2025-06-07 04:22:22 +0000",
+      "cave_spider": "2025-06-08 04:26:59 +0000",
       "spider": "2025-06-08 03:14:05 +0000"
     },
     "done": false
@@ -2642,6 +2643,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:59:04 +0000"
+    },
+    "done": true
+  },
+  "enderio:root": {
+    "criteria": {
+      "location": "2025-06-08 04:23:48 +0000"
     },
     "done": true
   },
