@@ -1996,3 +1996,31 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [17:09:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [17:09:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [-26, -64] in dimension 0 (overworld) while populating chunk [-27, -63], causing cascading worldgen lag.
 [17:09:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[17:13:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Guiso_de_Posho was slain by Primitive Devourer
+[17:14:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Guiso_de_Posho was slain by Assimilated Enderman
+[17:15:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Guiso_de_Posho moved too quickly! -0.6490486567770972,-1.544551143182943,-10.520227068877713
+[17:15:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Guiso_de_Posho moved too quickly! -0.8100746776419214,-0.6709083839322858,-10.11407626853238
+[17:17:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Guiso_de_Posho moved too quickly! -3.111501159672571,0.3819383788087549,-9.50630570621911
+[17:17:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Guiso_de_Posho moved too quickly! 5.254243326127494,-1.1705955670292667,-8.758497087911906
+[17:17:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Guiso_de_Posho moved too quickly! -5.644012698154711,-2.0215817533186,-8.282305839461173
+[17:18:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Guiso_de_Posho was slain by Primitive Devourer
+[17:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[17:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[17:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[17:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[17:19:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to jysusxd123]
+[17:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[17:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[17:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[17:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[17:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to jysusxd123]
+[17:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[17:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[17:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[17:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[17:19:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to jysusxd123]
+[17:19:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[17:19:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
+[17:19:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
+[17:19:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to jysusxd123]
+[17:19:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: jysusxd123 was slain by Rupter
