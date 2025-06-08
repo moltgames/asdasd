@@ -571,6 +571,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-08 03:52:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:04:04 +0000"
@@ -1735,6 +1741,7 @@
       "cooked_mutton": "2025-06-08 03:02:05 +0000",
       "cooked_beef": "2025-06-07 05:09:33 +0000",
       "apple": "2025-06-08 03:17:43 +0000",
+      "mutton": "2025-06-08 03:55:21 +0000",
       "bread": "2025-06-07 04:45:08 +0000",
       "golden_apple": "2025-06-07 04:54:26 +0000",
       "rotten_flesh": "2025-06-08 03:42:52 +0000",
