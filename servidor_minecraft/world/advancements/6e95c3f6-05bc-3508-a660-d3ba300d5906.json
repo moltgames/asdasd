@@ -401,6 +401,12 @@
     },
     "done": true
   },
+  "enderioconduits:root": {
+    "criteria": {
+      "inv_changed-enderio:sand": "2025-06-08 00:08:20 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_the_recipe": "2025-06-07 23:41:09 +0000"
@@ -563,6 +569,18 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-08 00:10:36 +0000"
+    },
+    "done": true
+  },
+  "bhc:main/root": {
+    "criteria": {
+      "red_heart_in_inventory": "2025-06-08 00:07:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2025-06-07 23:41:09 +0000"
@@ -638,6 +656,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-06-07 23:57:44 +0000",
+      "husk": "2025-06-08 00:10:01 +0000",
       "zombie": "2025-06-07 23:51:46 +0000"
     },
     "done": false
@@ -1134,6 +1153,7 @@
       "desert_hills": "2025-06-07 23:59:11 +0000",
       "plains": "2025-06-07 23:41:09 +0000",
       "savanna": "2025-06-08 00:00:21 +0000",
+      "savanna_rock": "2025-06-08 00:05:33 +0000",
       "extreme_hills": "2025-06-07 23:50:46 +0000",
       "river": "2025-06-07 23:58:58 +0000",
       "desert": "2025-06-07 23:59:00 +0000"
@@ -1233,6 +1253,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-06-07 23:41:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-06-08 00:03:05 +0000"
     },
     "done": true
   },
@@ -1671,7 +1697,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-06-07 23:51:43 +0000",
-      "porkchop": "2025-06-07 23:59:24 +0000"
+      "cooked_mutton": "2025-06-08 00:13:05 +0000",
+      "porkchop": "2025-06-07 23:59:24 +0000",
+      "beetroot": "2025-06-08 00:04:40 +0000",
+      "carrot": "2025-06-08 00:02:37 +0000"
     },
     "done": false
   },

@@ -577,6 +577,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-06-08 00:06:36 +0000"
+    },
+    "done": true
+  },
   "bhc:main/root": {
     "criteria": {
       "red_heart_in_inventory": "2025-06-07 04:24:35 +0000"
