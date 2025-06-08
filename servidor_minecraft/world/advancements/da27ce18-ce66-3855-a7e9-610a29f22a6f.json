@@ -1240,6 +1240,8 @@
       "savanna": "2025-06-07 04:18:01 +0000",
       "plains": "2025-06-07 04:01:55 +0000",
       "savanna_rock": "2025-06-07 04:19:24 +0000",
+      "taiga": "2025-06-08 20:48:20 +0000",
+      "taiga_hills": "2025-06-08 20:49:34 +0000",
       "birch_forest_hills": "2025-06-07 04:15:57 +0000",
       "ocean": "2025-06-08 03:06:37 +0000",
       "extreme_hills": "2025-06-07 04:09:42 +0000",
@@ -2626,6 +2628,12 @@
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "craft_hammer": "2025-06-08 20:48:51 +0000"
     },
     "done": true
   },
