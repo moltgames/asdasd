@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "enderio:gears/g3_iron_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2025-06-08 04:42:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:58:17 +0000"
@@ -669,6 +675,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2025-06-08 04:46:16 +0000",
       "zombie_villager": "2025-06-07 19:08:07 +0000",
       "skeleton": "2025-06-07 04:54:24 +0000",
       "husk": "2025-06-07 04:54:21 +0000",
@@ -2345,6 +2352,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-06-08 04:41:47 +0000"
     },
     "done": true
   },
