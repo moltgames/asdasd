@@ -551,6 +551,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-06-07 23:53:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_the_recipe": "2025-06-07 23:41:09 +0000"
@@ -631,6 +637,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-06-07 23:57:44 +0000",
       "zombie": "2025-06-07 23:51:46 +0000"
     },
     "done": false
@@ -1124,8 +1131,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-06-07 23:43:42 +0000",
+      "desert_hills": "2025-06-07 23:59:11 +0000",
       "plains": "2025-06-07 23:41:09 +0000",
-      "extreme_hills": "2025-06-07 23:50:46 +0000"
+      "savanna": "2025-06-08 00:00:21 +0000",
+      "extreme_hills": "2025-06-07 23:50:46 +0000",
+      "river": "2025-06-07 23:58:58 +0000",
+      "desert": "2025-06-07 23:59:00 +0000"
     },
     "done": false
   },
@@ -1659,7 +1670,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "chicken": "2025-06-07 23:51:43 +0000"
+      "chicken": "2025-06-07 23:51:43 +0000",
+      "porkchop": "2025-06-07 23:59:24 +0000"
     },
     "done": false
   },

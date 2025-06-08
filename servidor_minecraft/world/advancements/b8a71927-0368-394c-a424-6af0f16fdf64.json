@@ -1295,6 +1295,12 @@
     },
     "done": true
   },
+  "nocubessrpsurvival:advsliceanddice": {
+    "criteria": {
+      "advsliceanddice": "2025-06-07 23:53:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:58:17 +0000"
@@ -2571,6 +2577,12 @@
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:58:17 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpsurvival:adveatenalive": {
+    "criteria": {
+      "adveatenalive": "2025-06-07 23:55:03 +0000"
     },
     "done": true
   },

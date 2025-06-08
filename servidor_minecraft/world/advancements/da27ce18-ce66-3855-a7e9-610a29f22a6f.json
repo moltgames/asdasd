@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-06-08 00:00:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
@@ -849,6 +855,12 @@
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advtwistedpart": {
+    "criteria": {
+      "advtwistedpart": "2025-06-07 23:53:53 +0000"
     },
     "done": true
   },
