@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advgorepart": {
+    "criteria": {
+      "advgorepart": "2025-06-08 04:15:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
@@ -1141,6 +1147,12 @@
     },
     "done": true
   },
+  "nocubessrparmory:advpestilentpart": {
+    "criteria": {
+      "advpestilentpart": "2025-06-08 04:11:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
@@ -1543,6 +1555,12 @@
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:01:55 +0000"
+    },
+    "done": true
+  },
+  "nocubessrpnests:advrefinesample": {
+    "criteria": {
+      "advrefinesample": "2025-06-08 04:12:47 +0000"
     },
     "done": true
   },
