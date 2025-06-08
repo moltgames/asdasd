@@ -670,6 +670,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2025-06-08 04:47:01 +0000",
+      "stray": "2025-06-08 23:00:13 +0000",
       "zombie_villager": "2025-06-08 16:35:43 +0000",
       "skeleton": "2025-06-07 19:12:22 +0000",
       "husk": "2025-06-07 04:56:57 +0000",
