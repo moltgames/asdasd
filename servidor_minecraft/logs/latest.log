@@ -1883,3 +1883,9 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [19:54:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zaide523 has made the advancement [We Need to Go Deeper]
 [19:59:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zaide523> 36 91 48
 [20:01:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zaide523 has made the advancement [Into Fire]
+[20:05:21] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:06:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zaide523 has made the advancement [Enchanter]
+[20:07:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zaide523 has made the advancement [Diamonds!]
+[20:09:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zaide523 died
+[20:10:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zaide523 died
+[20:12:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zaide523 was slain by Adapted Yelloweye

@@ -665,6 +665,7 @@
     "criteria": {
       "skeleton": "2025-06-07 04:39:49 +0000",
       "husk": "2025-06-07 18:01:06 +0000",
+      "blaze": "2025-06-09 20:01:44 +0000",
       "zombie": "2025-06-07 04:13:51 +0000",
       "spider": "2025-06-07 18:55:53 +0000",
       "creeper": "2025-06-07 19:14:39 +0000"
@@ -686,6 +687,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-06-09 20:06:24 +0000"
     },
     "done": true
   },
@@ -1753,6 +1760,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-07 04:20:23 +0000",
+      "cooked_mutton": "2025-06-09 20:07:34 +0000",
       "cooked_beef": "2025-06-07 04:30:53 +0000",
       "spider_eye": "2025-06-07 18:58:01 +0000",
       "potato": "2025-06-07 18:24:37 +0000",
@@ -2184,6 +2192,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-06-09 20:07:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-06-07 04:05:33 +0000"
@@ -2511,6 +2525,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_the_recipe": "2025-06-07 03:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-06-09 20:01:47 +0000"
     },
     "done": true
   },
