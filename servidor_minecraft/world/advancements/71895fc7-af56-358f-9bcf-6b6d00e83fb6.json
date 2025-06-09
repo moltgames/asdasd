@@ -671,6 +671,7 @@
     "criteria": {
       "zombie_pigman": "2025-06-08 04:47:01 +0000",
       "stray": "2025-06-08 23:00:13 +0000",
+      "wither_skeleton": "2025-06-08 23:07:49 +0000",
       "zombie_villager": "2025-06-08 16:35:43 +0000",
       "skeleton": "2025-06-07 19:12:22 +0000",
       "husk": "2025-06-07 04:56:57 +0000",
@@ -1783,11 +1784,13 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-06-07 04:18:03 +0000",
+      "chicken": "2025-06-09 01:35:23 +0000",
       "cooked_mutton": "2025-06-08 03:02:05 +0000",
       "cooked_beef": "2025-06-07 05:09:33 +0000",
       "beef": "2025-06-08 16:20:57 +0000",
       "apple": "2025-06-08 03:17:43 +0000",
       "mutton": "2025-06-08 03:55:21 +0000",
+      "raw_salmon": "2025-06-09 01:47:02 +0000",
       "bread": "2025-06-07 04:45:08 +0000",
       "golden_apple": "2025-06-07 04:54:26 +0000",
       "rotten_flesh": "2025-06-08 03:42:52 +0000",
@@ -1878,6 +1881,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_the_recipe": "2025-06-07 04:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-06-08 23:08:45 +0000"
     },
     "done": true
   },
