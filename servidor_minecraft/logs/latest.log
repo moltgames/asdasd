@@ -2397,3 +2397,16 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 [20:53:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [20:53:08] [Server thread/WARN] [FML]: Roguelike Dungeons loaded a new chunk [9, -14] in dimension 0 (overworld) while populating chunk [16, -14], causing cascading worldgen lag.
 [20:53:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:53:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[20:53:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[20:54:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[20:54:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:54:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:54:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:54:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[20:54:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/Storage Cell
+[20:54:13] [Server thread/INFO] [FML]: Unloading dimension 0
+[20:54:13] [Server thread/INFO] [FML]: Unloading dimension 2
+[20:54:13] [Server thread/INFO] [FluxNetworks]: FluxNetworkData has been unloaded
+[20:54:13] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:54:13] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
