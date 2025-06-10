@@ -404,6 +404,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-06-08 03:13:32 +0000",
+      "baked_potato": "2025-06-10 20:45:36 +0000",
       "apple": "2025-06-08 22:28:26 +0000",
       "mutton": "2025-06-08 22:12:53 +0000",
       "rotten_flesh": "2025-06-08 04:32:49 +0000",
