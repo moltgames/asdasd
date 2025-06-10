@@ -1258,6 +1258,12 @@
     },
     "done": true
   },
+  "spartanweaponry:explode_creeper": {
+    "criteria": {
+      "killed_skeleton": "2025-06-10 22:16:37 +0000"
+    },
+    "done": true
+  },
   "nocubessrpnests:advsrpnestsaddonroot": {
     "criteria": {
       "advsrpnestsaddonroot": "2025-06-07 23:41:09 +0000"
@@ -2286,6 +2292,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_the_recipe": "2025-06-07 23:41:09 +0000"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2025-06-10 21:47:56 +0000"
     },
     "done": true
   },
